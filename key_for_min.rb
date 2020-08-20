@@ -14,4 +14,5 @@ lowest_value = 1000
  end
 
 lowest_value
+lowest_key
 end
