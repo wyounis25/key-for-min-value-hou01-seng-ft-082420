@@ -10,7 +10,8 @@ lowest_value = 1000
      lowest_value = value
 
    end
+   lowest_value
  end
 
 end
-lowest_value
+
