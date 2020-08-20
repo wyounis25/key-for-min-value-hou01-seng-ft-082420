@@ -11,5 +11,6 @@ lowest_value = 1000
 
    end
  end
-lowest_value
+
 end
+lowest_value
